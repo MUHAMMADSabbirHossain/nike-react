@@ -1,0 +1,22 @@
+/* banner section */
+.nike-bg-primary {
+    background-color: #FFF9F4;
+}
+
+.nike-font-primary-color {
+    color: #FA804C;
+}
+
+.nike-font-secondary-color {
+    color: #363958;
+}
+
+
+/* button section */
+.button a {
+    color: #FFFFFF;
+}
+
+.nike-btn-primary {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
