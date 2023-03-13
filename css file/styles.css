@@ -20,3 +20,8 @@
 .nike-btn-primary {
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
 }
+
+/* main section */
+main {
+    background-color: #E5E5E5;
+}
